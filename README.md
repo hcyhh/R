@@ -55,3 +55,7 @@ https://www.imangodoc.com/191031.html
 https://zhuanlan.zhihu.com/p/30335806
 RStudio Git GitHub配合使用 - 知乎 (zhihu.com)
 
+
+
+可能是我直接在GitHub上传图的原因 导致了未知的bug哈哈哈哈哈 
+提醒就拿来更新代码 复杂操作以待后续研究
